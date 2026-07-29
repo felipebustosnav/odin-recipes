@@ -1,0 +1,24 @@
+.recipe-content{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.recipe-title{
+    color: #83ba67;
+}
+.img-container{
+    width: 30%;
+    vertical-align: top;
+    
+}
+.img-container img{
+    border-radius: 10px;
+    max-width: 100%;
+}
+.recipe{
+    padding:20px 60px;
+    width: 60%;
+
+}
